@@ -33,8 +33,8 @@ My journey in Information technology has led me to develop a passion for cyberse
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
+
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
