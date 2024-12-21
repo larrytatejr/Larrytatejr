@@ -6,7 +6,7 @@ I am an IT professional with a profound interest in technology and a dedication 
 
 ## Objective
 
-My journey in Information technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Information technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join the Identification and Access Manangement (IAM).
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -30,7 +30,7 @@ My journey in Information technology has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
+### IAM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
